@@ -6,7 +6,7 @@ namespace L01P022021MS651.Models
     {
 
 
-        [Key]
+        [Key] //Ma
 
         public int id { get; set; }
         public string? materia { get; set; }
